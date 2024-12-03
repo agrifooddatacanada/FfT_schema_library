@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: FfT schema library
+description: A library of data schemas generated from the Food from Thought project
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/agrifooddatacanada/FfT_schema_library
