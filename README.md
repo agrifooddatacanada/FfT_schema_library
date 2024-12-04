@@ -2,7 +2,7 @@
 
 Welcome to the Schema libraryfor Food from Thought. View and search schemas in the [Schema library](https://agrifooddatacanada.github.io/FfT_schema_library/) amd contribute your schemas here on the GitHub backend. 
 
-These is a library of active schema projects and so as documentation is refined the contents will change.
+This is a library of active schema projects and so as the documentation is refined the contents will change.
 
 Because this work is all done within GitHub, the complete history of changes is available using GitHub Commit history tools.
 
