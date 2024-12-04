@@ -18,6 +18,8 @@ title: EDGP_Feed Efficiency
 **Author**: Victoria Asselstine  
 **Author Email**: vasselst@uoguelph.ca  
 
+[Download Schema](EDGP_Feed_OCA_bundle.zip)  
+
 ## Schema quick view
 
 | Attribute | Label | Description |
