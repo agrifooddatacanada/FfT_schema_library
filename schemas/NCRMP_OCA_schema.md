@@ -18,6 +18,8 @@ title: NCRMP Fresh Fruits and Vegetables 2020-2121
 **Author**: Rebecca Fong  
 **Author Email**: fongr@uoguelph.ca  
 
+[Download Schema](NCRMP_OCA_bundle.zip)  
+
 ## Schema quick view
 
 | Attribute | Label | Description |
