@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Crop Management - Tillage  
+parent: Yang
 ---
 
 # Schema information
@@ -15,7 +16,9 @@ title: Crop Management - Tillage
 **Name**: Crop Management - Tillage  
 **Description**: This is a dataset documenting crop managent - Tillage  
 **Author**: Wanhong Yang  
-**Author Email**: wayang@uoguelph.ca  
+**Author Email**: wayang@uoguelph.ca
+
+[Download Schema](Crop_Tillage_OCA_bundle.zip)
 
 ## Schema quick view
 
