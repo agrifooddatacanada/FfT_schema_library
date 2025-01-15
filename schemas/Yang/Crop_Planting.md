@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Crop Managemnt - Planting and Harvesting  
+parent: Yang
 ---
 
 # Schema information
@@ -16,7 +17,9 @@ title: Crop Managemnt - Planting and Harvesting
 **Description**: This is a dataset documenting crop managent - planting and harvestin  
 **Classification**: RDF405  
 **Author**: Wanhong Yang  
-**Author Email**: wayang@uoguelph.ca  
+**Author Email**: wayang@uoguelph.ca 
+
+[Download Schema](Crop_Planting_Harvesting_OCA_bundel.zip)
 
 ## Schema quick view
 
