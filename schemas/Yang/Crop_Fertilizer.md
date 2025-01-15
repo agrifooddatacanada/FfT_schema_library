@@ -1,6 +1,7 @@
 ---
 layout: default  
-title: Cope Management - Fertilizer and Manure  
+title: Crop Management - Fertilizer and Manure 
+parent: Yang
 ---
 
 # Schema information
@@ -16,6 +17,8 @@ title: Cope Management - Fertilizer and Manure
 **Description**: This is a dataset documenting crop managent - fertilizer and manure  
 **Author**: Wanhong Yang  
 **Author Email**: wayang@uoguelph.ca  
+
+[Download Schema](Crop_Fertilizer_Manure_OCA_bundle.zip)
 
 ## Schema quick view
 
