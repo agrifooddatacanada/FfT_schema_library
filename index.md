@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Food from Thought Thematic III Schema Library
+# Food from Thought Schema Library
 
 Welcome to the Schema library for Food from Thought Thematic II projects.
 
