@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: NCRMP Fresh Fruits and Vegetables 2020-2121  
+parent: Big data analysis (BDA) using artificial intelligence (AI) for reducing food safety risks in Canada
 ---
 
 # Schema information
