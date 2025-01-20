@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: EDGP_Feed Efficiency 
-parent: Improving livestock for climate resilience
+parent: Bonnie Mallard, PI
 ---
 
 # Schema information
