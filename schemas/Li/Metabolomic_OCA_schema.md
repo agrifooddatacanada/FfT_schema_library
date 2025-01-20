@@ -1,6 +1,7 @@
 ---
 layout: default  
-title: Metabolomic Concentration of Pig Biofluids  
+title: Metabolomic Concentration of Pig Biofluids 
+parent: Julang Li, PI
 ---
 
 # Schema information
@@ -17,6 +18,8 @@ title: Metabolomic Concentration of Pig Biofluids
 **Classification**: RDF402  
 **Author**: Lauren Fletcher  
 **Author Email**: lfletc03@uoguelph.ca  
+
+[Download Schema](Metabolic_OCA_bundle.zip) 
 
 ## Schema quick view
 
