@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Crop Managemnt - Planting and Harvesting  
-parent: Yang
+parent: A WebGIS Platform for Identifying Agri-Environmental Hot Spots in the Lake Erie Basin at a Field Scale
 ---
 
 # Schema information
