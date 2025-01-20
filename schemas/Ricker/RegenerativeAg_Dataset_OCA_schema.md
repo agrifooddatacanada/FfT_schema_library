@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: RegenerativeAg_Dataset  
-parent: Coordinating Antimicrobial Resistance Reporting in the AgriFood Canada Database
+parent: Nicole Ricker, PI
 ---
 
 # Schema information
