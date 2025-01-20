@@ -4,9 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-# Schema Library
+# Food from Thought Thematic III Schema Library
 
-Welcome to the Schema library for Food from Thought projects.
+Welcome to the Schema library for Food from Thought Thematic II projects.
 
 This is a library of active schema projects.  As the projects are updated, documentation may be refined to reflect the contents.
 
