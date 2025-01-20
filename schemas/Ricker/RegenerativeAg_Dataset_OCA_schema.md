@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: RegenerativeAg_Dataset  
+parent: Coordinating Antimicrobial Resistance Reporting in the AgriFood Canada Database
 ---
 
 # Schema information
@@ -17,6 +18,9 @@ title: RegenerativeAg_Dataset
 **Classification**: RDF401  
 **Author**: Daniel Gyamfi Amoako  
 **Author Email**: damoako@uoguelph.ca  
+
+[Download Schema](RegenerativeAg_Dataset_OCA_bundle.zip) 
+
 
 ## Schema quick view
 
