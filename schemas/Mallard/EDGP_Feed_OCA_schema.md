@@ -1,6 +1,7 @@
 ---
 layout: default  
-title: EDGP_Feed Efficiency  
+title: EDGP_Feed Efficiency 
+parent: Improving livestock for climate resilience
 ---
 
 # Schema information
