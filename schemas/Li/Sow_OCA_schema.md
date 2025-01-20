@@ -1,6 +1,7 @@
 ---
 layout: default  
-title: Sow Lifetime Litter Information  
+title: Sow Lifetime Litter Information
+parent: Julang Li, PI
 ---
 
 # Schema information
@@ -17,6 +18,9 @@ title: Sow Lifetime Litter Information
 **Classification**: RDF402  
 **Author**: Lauren Fletcher  
 **Author Email**: lfletc03@uoguelph.ca  
+
+[Download Schema](Sow_OCA_bundle.zip) 
+
 
 ## Schema quick view
 
