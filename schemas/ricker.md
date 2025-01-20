@@ -1,5 +1,5 @@
 ---
-title: Coordinating Antimicrobial Resistance Reporting in the AgriFood Canada database
+title: Coordinating Antimicrobial Resistance Reporting in the AgriFood Canada Database
 layout: default
 nav_order: 4
 ---
