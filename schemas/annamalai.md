@@ -1,5 +1,5 @@
 ---
-title: Manick Annamalai - PI
+title: Manick Annamalai, PI
 layout: default
 nav_order: 2
 ---
