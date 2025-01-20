@@ -1,9 +1,9 @@
 ---
-title: Improving livestock for climate resilience
+title: Bonnie Mallard, PI
 layout: default
 nav_order: 3
 ---
 
-## EDGP Feed Efficiency data schemas
+## Improving livestock for climate resilience
 
-The listed schemas correspond to the sources of data being collected for the feed efficiency trials conducted by Dr Angela Canovas' research team as part of the Improving Livestock for Climate Resilience project.  To view the contents of a schema, select it from the table of contents.
+The listed schemas correspond to the sources of data being collected for the project.  To view the contents of a schema, select it from the table of contents.
