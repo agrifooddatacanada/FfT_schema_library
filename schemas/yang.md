@@ -1,9 +1,9 @@
 ---
-title: A WebGIS Platform for Identifying Agri-Environmental Hot Spots in the Lake Erie Basin at a Field Scale
+title: Wanhong Yang, PI
 layout: default
 nav_order: 5
 ---
 
-## WebGIS Platform Core dataset Schemas
+## A WebGIS Platform for Identifying Agri-Environmental Hot Spots in the Lake Erie Basin at a Field Scale
 
-The listed schemas correspond to the sources of data being collected on an ongoing basis at the ODRC. To view the contents of a schema, select it from the table of contents.
+The listed schemas correspond to the sources of data being collected for the project. To view the contents of a schema, select it from the table of contents.
