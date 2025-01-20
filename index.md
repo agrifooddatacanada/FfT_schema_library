@@ -10,7 +10,7 @@ Welcome to the Schema library for Food from Thought Thematic III projects.
 
 This is a library of active schema projects.  As the projects are updated, documentation may be refined to reflect the contents.
 
-Since we are working within within GitHub, please note that the complete history of changes is available using GitHub Commit history tools.
+Since we are working within GitHub, please note that the complete history of changes is available using GitHub Commit history tools.
 
 ## If you wish to add your schemas to the Library
 
