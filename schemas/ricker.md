@@ -1,7 +1,7 @@
 ---
 title: Nicole Ricker, PI
 layout: default
-nav_order: 5
+nav_order: 6
 ---
 
 ## Coordinating Antimicrobial Resistance Reporting in the AgriFood Canada Database
