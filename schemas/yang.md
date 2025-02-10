@@ -1,7 +1,7 @@
 ---
 title: Wanhong Yang, PI
 layout: default
-nav_order: 6
+nav_order: 7
 ---
 
 ## A WebGIS Platform for Identifying Agri-Environmental Hot Spots in the Lake Erie Basin at a Field Scale
