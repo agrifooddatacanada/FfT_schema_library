@@ -1,7 +1,7 @@
 ---
 title: Manick Annamalai, PI
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 
 ## Big data analysis (BDA) using artificial intelligence (AI) for reducing food safety risks in Canada
