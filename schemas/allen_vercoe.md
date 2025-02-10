@@ -1,5 +1,5 @@
 ---
-title:Emma Allen_Vercoe, PI
+title: Emma Allen_Vercoe, PI
 layout: default
 nav_order: 9
 ---
