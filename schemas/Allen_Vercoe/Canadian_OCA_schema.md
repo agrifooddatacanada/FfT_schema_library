@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: Canadian Bee Gut Project Data Schema  
+parent: Emma Allen-Vercoe, PI
 ---
 
 # Schema information
@@ -17,6 +18,8 @@ title: Canadian Bee Gut Project Data Schema
 **Classification**: RDF401  
 **Author**: Brendan Daisley  
 **Author Email**: bdaisley@uoguelph.ca  
+
+[Download Schema](CanadianBeeGutProject_OCA_bundle.zip) 
 
 ## Schema quick view
 
