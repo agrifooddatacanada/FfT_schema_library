@@ -17,6 +17,9 @@ title: Climate Change Driven Agricultural Frontiers and Non-Frontiers
 **Author**: Krishna KC  
 **Author Email**: krishnak@uoguelph.ca  
 
+[Download Schema](Climate_OCA_bundle.zip) 
+
+
 ## Schema quick view
 
 | Attribute | Label | Description |
