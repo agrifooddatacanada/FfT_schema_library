@@ -1,7 +1,7 @@
 ---
 title: Emma Allen_Vercoe, PI
 layout: default
-nav_order: 9
+nav_order: 2
 ---
 
 ## Canadian Bee Gut Project
