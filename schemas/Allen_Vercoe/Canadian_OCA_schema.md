@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Canadian Bee Gut Project Data Schema  
-parent: Emma Allen_Vercoe, PI
+parent: Emma Allen_Vercoe
 ---
 
 # Schema information
