@@ -1,5 +1,5 @@
 ---
-title: Bonnie Mallard, PI
+title: Bonnie Mallard
 layout: default
 nav_order: 7
 ---
