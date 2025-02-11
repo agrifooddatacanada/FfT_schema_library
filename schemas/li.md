@@ -1,5 +1,5 @@
 ---
-title: Julang Li, PI
+title: Julang Li
 layout: default
 nav_order: 6
 ---
