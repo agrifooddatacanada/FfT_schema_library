@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Crop Managemnt - Planting and Harvesting  
-parent: Wanhong Yang, PI
+parent: Wanhong Yang
 ---
 
 # Schema information
