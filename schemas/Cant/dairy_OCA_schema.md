@@ -13,7 +13,7 @@ parent: John Cant
 1. TOC
 {:toc}
 
-**Name**: dairy cow energy balance  
+**Name**: Dairy Cow Energy Balance  
 **Description**: Automatically collected daily dairy cow data to estimate energy balance  
 **Classification**: RDF402  
 **Author**: John Cant  
