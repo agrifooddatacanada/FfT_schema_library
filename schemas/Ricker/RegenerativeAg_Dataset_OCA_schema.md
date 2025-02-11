@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: RegenerativeAg_Dataset  
-parent: Nicole Ricker, PI
+parent: Nicole Ricker
 ---
 
 # Schema information
