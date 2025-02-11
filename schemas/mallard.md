@@ -1,7 +1,7 @@
 ---
 title: Bonnie Mallard, PI
 layout: default
-nav_order: 6
+nav_order: 7
 ---
 
 ## Improving livestock for climate resilience
