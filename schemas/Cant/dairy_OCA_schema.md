@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: dairy cow energy balance  
+title: Dairy Cow Energy Balance  
 parent: John Cant
 ---
 
