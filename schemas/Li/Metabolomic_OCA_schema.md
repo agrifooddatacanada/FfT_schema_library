@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Metabolomic Concentration of Pig Biofluids 
-parent: Julang Li, PI
+parent: Julang Li
 ---
 
 # Schema information
