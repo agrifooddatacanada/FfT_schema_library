@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Climate Change Driven Agricultural Frontiers and Non-Frontiers  
-parent: Evan Fraser, PI
+parent: Evan Fraser
 ---
 
 # Schema information
