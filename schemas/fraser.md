@@ -1,5 +1,5 @@
 ---
-title: Evan Fraser, PI
+title: Evan Fraser
 layout: default
 nav_order: 5
 ---
