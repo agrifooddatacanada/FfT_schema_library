@@ -1,5 +1,5 @@
 ---
-title: Nicole Ricker, PI
+title: Nicole Ricker
 layout: default
 nav_order: 8
 ---
