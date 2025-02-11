@@ -1,6 +1,7 @@
 ---
 layout: default  
 title: dairy cow energy balance  
+parent: John Cant
 ---
 
 # Schema information
@@ -17,6 +18,8 @@ title: dairy cow energy balance
 **Classification**: RDF402  
 **Author**: John Cant  
 **Author Email**: jcant@uoguelph.ca  
+
+[Download Schema](dairy_OCA_bundle.zip)
 
 ## Schema quick view
 
