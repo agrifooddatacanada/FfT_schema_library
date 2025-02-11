@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Crop Management - Tillage  
-parent: Wanhong Yang, PI
+parent: Wanhong Yang
 ---
 
 # Schema information
