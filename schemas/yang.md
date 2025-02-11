@@ -1,5 +1,5 @@
 ---
-title: Wanhong Yang, PI
+title: Wanhong Yang
 layout: default
 nav_order: 9
 ---
