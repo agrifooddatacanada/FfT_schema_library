@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: EDGP_Feed Efficiency 
-parent: Bonnie Mallard, PI
+parent: Bonnie Mallard
 ---
 
 # Schema information
