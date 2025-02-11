@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Sow Lifetime Litter Information
-parent: Julang Li, PI
+parent: Julang Li
 ---
 
 # Schema information
