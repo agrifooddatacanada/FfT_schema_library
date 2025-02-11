@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: NCRMP Fresh Fruits and Vegetables 2020-2121  
-parent: Manick Annamalai, PI
+parent: Manick Annamalai
 ---
 
 # Schema information
